@@ -1,0 +1,12 @@
+commands related to a remote repository:
+git clone <ssh github link>
+git push or git push origin main
+
+commands related to the workflow:
+git add . //to add all files in current directory
+git add <file> //to add specific file
+git commit -m "message describing what was done"
+
+commands related to checking status or log history
+git status
+git log
